@@ -4,6 +4,9 @@ The model aims to introduce grouped aggregation and simple predictive thinking.
 Through grouped aggregation, attendance records are summarized into clear measures indicators for student engagement.
 
 
+The project addresses the challenge of monitoring and predicting student engagement in virtual classrooms. While attendance logs capture raw participation data, they don’t provide actionable insights. Educators need automated tools to flag low-engagement students and anticipate disengagement trends to intervene early.
+
+
 About the Dataset
 
 The dataset used for training and evaluation is stored in the file df_clean.csv. 
@@ -55,3 +58,7 @@ Thresholds are redefined as dataset medians:
  
  Model was evaluated with Train/test split and 5-fold cross-validation, using various performance metrics such as accuracy, precision, recall, and F1 score.
 
+ Conclusion
+
+ The project successfully automated engagement monitoring and demonstrated predictive modeling. Future work could incorporate temporal features (e.g., attendance streaks, variability in duration) to move beyond rule replication and enable early disengagement prediction.
+It also demonstrates that engagement analysis must go beyond attendance counts. By combining metrics like session duration, attendance rate, and flagging logic, the system provides a clear, actionable picture of student behavior. This empowers educators to intervene early, reward consistent engagement, and optimize scheduling for better outcomes.
