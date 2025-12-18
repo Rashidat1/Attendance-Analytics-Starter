@@ -1,0 +1,23 @@
+Student attendance alone did not fully capture engagement. 
+Some students attend sessions but left early, while others remain consistently engaged. 
+The system successfully differentiates between attendance and true engagement.
+It flags students with low engagement for early intervention and provides actionable insights into patterns of participation across days and individuals.
+
+KEY INSIGHTS
+
+Students were grouped into three categories: Shown on the bar chart - Active students
+
+Consistently Engaged (~88–92 minutes average duration, not flagged).
+
+Active but Short Duration (attend but stay < 60 minutes).
+
+Flagged Low Engagement (system‑identified as disengaged).
+
+
+Peak days: Shown on the bar chart of the most active day of the week. 
+
+Identifies which weekday consistently has the highest attendance (Wednesdays). 
+
+Low‑engagement days: Spots weaker days (Sundays)
+
+
