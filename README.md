@@ -3,7 +3,7 @@ This repository contains code for a Attendance analytics starter, using machine 
 The model aims to introduce grouped aggregation and simple predictive thinking.
 Through grouped aggregation, attendance records are summarized into clear measures indicators for student engagement.
 
-# Objectives
+# Problem Statement & Objectives
 The project addresses the challenge of monitoring and predicting student engagement in virtual classrooms. While attendance logs capture raw participation data, they don’t provide actionable insights. Educators need automated tools to flag low-engagement students and anticipate disengagement trends to intervene early.
 
 
